@@ -1,0 +1,14 @@
+cffi==1.14.0
+Click==7.0
+cryptography==2.8
+Flask==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+pkg-resources==0.0.0
+pycparser==2.19
+PyJWT==1.7.1
+pymodm==0.4.2
+pymongo==3.10.1
+six==1.14.0
+Werkzeug==1.0.0
